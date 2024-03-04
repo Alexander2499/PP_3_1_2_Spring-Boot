@@ -11,8 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import web.model.User;
 import web.service.UserServiceImpl;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
+
 import java.util.List;
 
 @Controller
